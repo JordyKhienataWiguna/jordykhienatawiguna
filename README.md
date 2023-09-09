@@ -1,4 +1,6 @@
-### Hi there 👋
+# Halo semua! 
+
+I am an active student at Gunadarma University, Depok. I have been interested in Web Development and also Artificial Intelligence since Covid-19 pandemic. I love exploring Web Development and Artificial Intelligence and how they relate. I am a hard worker, responsible for the tasks given, and like solving problems. I have a dream to create Artificial Intelligence that helps simplify the activities of developers.
 
 <!--
 **JordyKhienataWiguna/jordykhienatawiguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
